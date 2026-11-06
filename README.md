@@ -1,4 +1,4 @@
-# CS-320-Portfolio
+# CS-320-Portfolio Project (Software Testing, Automation, and Quality Assurance)
 
 *How can I ensure that my code, program, or software is functional and secure?
 When it comes to ensuring functionality, there are a few factors to consider. I always have a tendency to test the foundation and structure of code first and foremost. Having a solid base to work from allows for everything else to move properly. It's important to consider checking for bugs and errors throughout development as well. It's essential to always test multiple times to ensure that everything is running as it should.
